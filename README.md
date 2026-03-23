@@ -27,5 +27,5 @@ Fișierul de constrângeri (`Basys3_Master.xdc`) este configurat pentru a mapa i
 * Bereş Dan-Cristian  
 * Nemeti Crişan Alexandru Denis  
 
-**Grupa:** 2133/3  
+**Grupa:** 2122  
 **Instituție:** Universitatea Tehnică din Cluj-Napoca (ETTI)
